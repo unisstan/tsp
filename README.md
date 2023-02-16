@@ -6,7 +6,7 @@ This program is developed with Python.
 
 Both programs require n (number of nodes) and a symmetric nxn matrix with 0's along the diagonal.
 
-ex.
+example:
 
 bnb(n, matrix)
 
